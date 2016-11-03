@@ -1,0 +1,4 @@
+name: Cream core
+description: Global functionality required by cream
+core: 8.x
+type: module
